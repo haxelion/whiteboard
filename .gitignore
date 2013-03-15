@@ -1,3 +1,15 @@
+#sass
+.sass-cache
+
+#app
+whiteboard/templates/graph.svg
+
+#development
+db.sql
+
+#virtualenv
+ve/
+
 #Django
 *.log
 *.pot
